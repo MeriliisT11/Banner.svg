@@ -26,9 +26,9 @@
     <tspan fill="url(#textGradient)">Maaleht alates 1€ kuus </tspan>
   </text>
 
-  <!-- I-frame -->
-  <foreignObject x="150" y="70" width="450" height="90">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="position:absolute;">
+  <!-- Animated I-frame -->
+  <foreignObject x="100" y="75" width="400" height="90" style="text-align: center;">
+    <div xmlns="http://www.w3.org/1999/xhtml">
       <iframe src="https://maaleht.delfi.ee/" width="100%" height="100%" style="border:none;"></iframe>
     </div>
   </foreignObject>
